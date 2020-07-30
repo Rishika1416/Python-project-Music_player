@@ -8,8 +8,6 @@ import tkinter.ttk as ttk
 
 root=Tk()
 root.title('MP3 player')
-image = PhotoImage(file="bg4.png")
-
 root.geometry("500x400")
 
 '''C = Canvas(root, bg="blue", height=250, width=300)
